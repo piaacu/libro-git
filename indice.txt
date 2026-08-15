@@ -2,3 +2,4 @@ cap1: intro
 cap2: flujo de trabajo
 cap3: gest. de ramas
 cap4: repo. remotos
+Cap 5: Conceptos avanzados
