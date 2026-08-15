@@ -1,0 +1,3 @@
+Cap 1: introduccion a git
+Cap 2: flujo de trabajo dinámico
+Cap 3: Repositorios remotos
